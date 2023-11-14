@@ -1,4 +1,4 @@
 export type Door = {
-    index:number,
-    isOpen:boolean
-}
+  index: number;
+  isOpen: boolean;
+};

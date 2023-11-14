@@ -1,6 +1,9 @@
 # 100Doors
+
 TDD Practic and logical solution
+
 ## 100 Doors
+
 There are 100 doors in a row that are all closed. You make 100 passes through the doors. With each pass you toggle the doors state. On each pass you visit the Nth door. That is on the first pass you visit every door. On the second pass you visit every 2nd door. On the third pass you visit every 3rd door and so on until you complete the 100th pass.
 
 The first pass you visit every door and open it.
@@ -13,9 +16,9 @@ Print which doors are open and which are closed as a single string.
 Use @ for an open door and # for a closed door.
 
 ## Examples
+
 The first six doors will look something like this : @@##@@##
 
 Bonus
 Add a third state of holding (use H). By adding this state, you must toggle between open, holding and closed when visiting the doors.
 How could you have better abstracted the problem to make these adjustments simpler?
-
