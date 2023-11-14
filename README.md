@@ -1,4 +1,4 @@
 # Logical practice with TDD
 
-adding logical exercies under 'src' with a progress file and provide tests in TDD methode 
+Adding logical exercises under 'src' in a progress.ts file and provide tests in TDD methode 
 
