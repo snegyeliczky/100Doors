@@ -27,4 +27,3 @@ export const visitAll = (visits: number, doors: Door[]): Door[] => {
     }
     return doorLine
 }
-

@@ -50,15 +50,15 @@ describe("tests of 100 doors:", () => {
 
     it('should toggle doors on second index', () => {
         expect(visitor(1, testArray)[1]).toEqual(openDoor)
-    });
+    })
 
     it('should have a visit100Time', () => {
         expect(visitAll).toBeDefined()
-    });
+    })
 
     it('should close the last door on the first run ', () => {
         expect(visitAll(1, testArray)[1]).toEqual(openDoor)
-    });
+    })
 
     it('should visit the given array 2 times', () => {
         expect(visitAll(2, testArray)[1]).toEqual(closedDoor)
