@@ -85,4 +85,6 @@ describe("tests of 100 doors:", () => {
   it("should return as the final string first 5 char", () => {
     expect(run().slice(0, 5)).toEqual("@##@#");
   });
+
+  console.log("hello");
 });
