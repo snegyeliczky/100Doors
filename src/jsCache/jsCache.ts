@@ -1,4 +1,4 @@
-export const myCache = (fn: any, context?: any) => {
+export const myCache = (fn: any) => {
   let cache = {};
   return (...args: any) => {
     const key = JSON.stringify(args);
