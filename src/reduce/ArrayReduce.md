@@ -1,0 +1,1 @@
+### Creating array reduce function with generic types

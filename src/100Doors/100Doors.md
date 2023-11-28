@@ -10,9 +10,5 @@ is closed you open it, it if is open you close it. Continue until you complete t
 door. After 100 passes what is the state of each door? Print which doors are open and which are closed as a single
 string. Use @ for an open door and # for a closed door.
 
-## Examples
+The first five doors will look something like this : @##@#
 
-The first six doors will look something like this : @@##@@##
-
-Bonus Add a third state of holding (use H). By adding this state, you must toggle between open, holding and closed when
-visiting the doors. How could you have better abstracted the problem to make these adjustments simpler?

@@ -1,0 +1,1 @@
+### Simple counter using closure to keep and edit its private variable  
